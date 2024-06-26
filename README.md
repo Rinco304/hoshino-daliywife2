@@ -29,4 +29,4 @@
 
 ## 参考致谢
 
-|[nonebot-plugin-today-waifu](https://github.com/glamorgan9826/nonebot-plugin-today-waifu) | [@glamorgan9826](https://github.com/glamorgan9826) |
+| [nonebot-plugin-today-waifu](https://github.com/glamorgan9826/nonebot-plugin-today-waifu) | [@glamorgan9826](https://github.com/glamorgan9826) |
